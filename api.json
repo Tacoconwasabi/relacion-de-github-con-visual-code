@@ -1,0 +1,84 @@
+[
+    {
+        "precio": 10.00,
+        "id":1,
+        "title": "Chicles",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/1.png"
+    },
+
+     {
+        "precio": 20.00,
+        "id":2,
+        "title": "Paletas",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/2.png"
+    },
+     {
+        "precio": 15.00,
+        "id":3,
+        "title": "Gomitas",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/3.png"
+    },
+    
+     {
+        "precio": 15.00,
+        "id":4,
+        "title": "Caramelos",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/4.png"
+    },
+
+     {
+        "precio": 15.00,
+        "id":5,
+        "title": "Caramelo y paleta",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/5.png"
+    },
+
+     {
+        "precio": 3.00,
+        "id":6,
+        "title": "Chicloso",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/6.png"
+    },
+
+     {
+        "precio": 20.00,
+        "id":7,
+        "title": "Rompemuelas",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/7.png"
+    },
+
+     {
+        "precio": 50.00,
+        "id":8,
+        "title": "Bolo",
+        "thumbnailUrl":"https://tacowasabi.000webhostapp.com/proyectos/fotos/8.png"
+    },
+
+    {
+        "precio": 3.00,
+        "id":9,
+        "title": "Dulce de mantequilla",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/9.png"
+    },
+
+    {
+        "precio": 30.00,
+        "id":10,
+        "title": "Paletas de menta",
+        "thumbnailUrl":"https://tacowasabi.000webhostapp.com/proyectos/fotos/10.png"
+    },
+
+    {
+        "precio": 5.00,
+        "id":11,
+        "title": "Baston de dulce",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/11.png"
+    },
+
+    {
+        "precio": 6.00,
+        "id":12,
+        "title": "Dulces frutales",
+        "thumbnailUrl": "https://tacowasabi.000webhostapp.com/proyectos/fotos/12.png"
+    }
+]
